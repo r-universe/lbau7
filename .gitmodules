@@ -5,6 +5,9 @@
 [submodule "baskexact"]
 	path = baskexact
 	url = https://github.com/lbau7/baskexact
+[submodule "basksim"]
+	path = basksim
+	url = https://github.com/lbau7/basksim
 [submodule "findn"]
 	path = findn
 	url = https://github.com/lbau7/findn
